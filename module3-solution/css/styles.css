@@ -1,0 +1,37 @@
+.section-content {
+	border: 1px solid #aaaaaa;
+	padding: 15px;
+}
+#section1,
+#section2,
+#section3 {
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+#section1 .section-content{
+	background-color: #99ccff;
+}
+
+#section2 .section-content{
+	background-color: #99ffcc;
+}
+
+#section3 .section-content{
+	background-color: #ff99cc;
+}
+
+.navbar {
+	border-radius: 0px;
+	background-color: #ff9933;
+	border: 0px;
+}
+
+#collapsable-nav {
+	background-color: #ffe6cc;
+}
+
+#menu-button {
+	position: relative;
+	top: 20px;
+}
